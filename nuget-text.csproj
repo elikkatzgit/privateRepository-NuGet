@@ -2,9 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>EY.IndirectTax.GCR.Canada.Services.API</AssemblyName>
-    <UserSecretsId>7624cdf9-0fa3-4175-b57d-dc80d3e3aa1c</UserSecretsId>
-    <RootNamespace>EY.IndirectTax.GCR.Canada.Services.API</RootNamespace>
   </PropertyGroup>  
 
   <!--<ItemGroup>
