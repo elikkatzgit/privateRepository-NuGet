@@ -13,6 +13,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="elik.text" Version="4.3.0" />
+    <PackageReference Include="elikkj.text" Version="4.3.0" />
   </ItemGroup>
 </Project>
