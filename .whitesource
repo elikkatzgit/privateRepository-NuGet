@@ -16,7 +16,7 @@
     {   
         "matchHost": "https://sttr.jfrog.io/artifactory/api/nuget/v3/default-nuget-local",
         "hostType": "nuget",
-        "userName": "gal.d.doron@gmail.com",
+        "userName": "g.d.doron@gmail.com",
         "encrypted": {
            "password": "wcBMA8xOaBJvzJNbAQf/dEiiDPRa584l/g7ubWGJTnIkRaRr3rVAdLrXuRapOga9QVp6LnHeQJYUYdw7A8Wu33EggNzk/tKuEyC/ERI0LhyBM6ItN1yBxRj2d5wlo/JtiaM4NqKLJXCgCj8J5pXRZLFfAhgLWqKLHa134qKesa2T2xSZZiW5imdlu+8+b95LsToUAqnOMUyymfS7S1RG1HPrih+Ieamr5Oi33GoGr35G5sxyIWsrNVXJc/gRvXN2T9Oaw5G8/xITU+6fIBGCg1WNSXuAJ3d7KMdRnsO8HaC2DWqdcnJ7jzIkF6lr3dx5r3fJCUYzXTNDVfewxnlqnuA3dKQCYV7tfHDBxa3lmdJtAdhv/hREjFeXT1kqZz7o4ftoIgx+r0XU/1aoyPXFq0QK7ejJv1jthianovFTL0Kxx0EBQhhXwtjWeH4jYsJSB2b08b0KF6sMyzLFEhkm8Vvss5yNEs6b5PQWpN9qSn/5u/4ogYWCqIZmEYuX1A"
         }
